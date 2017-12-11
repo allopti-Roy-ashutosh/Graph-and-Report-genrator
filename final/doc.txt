@@ -1,0 +1,10 @@
+For using this module you need to have
+
+1. pandas installed [ http://pandas.pydata.org/pandas-docs/stable/install.html ]
+2. ggplot installed [ http://ggplot.yhathq.com/ ]
+3. tkinter installed [ https://docs.python.org/3/library/tk.html ]
+4. pymysql installed [ https://github.com/PyMySQL/PyMySQL ]\
+
+In siplest terms
+
+GUI.py -> DataFiles.py -> GUI.py -> DataFiles.py -> Plotter.py -> DataFiles.py -> GUI.py
